@@ -56,16 +56,18 @@ https://github.com/Meenakshimkumar/sat-hack/assets/118409571/a01c4c78-68fb-432b-
 1. Install Python.
 2. Clone this repository.
 3. Create the virtual environment.
- '''
+   ```
     python -m venv env
- '''
+   ```
 5. Activate the virtual environment.
-   '''
+   ```
     env/Scripts/activate.bat
-   '''
+   ```
 7. Install streamlit using pip.
-   '''
+   ```
     pip install streamlit
-   '''
+   ```
 ## How to Run
-'''streamlit run ai.py'''
+   ```
+    streamlit run ai.py
+   ```
