@@ -31,7 +31,9 @@ A dictionary is created to store predefined responses for each emotion. Each key
 **3)Create Streamlit User Interface (UI):**
 
 **Title**: The title of the chatbot is displayed using st.title().
+
 **Emotion Selection**: A dropdown menu is provided for users to select an emotion. This is done using st.selectbox(), which takes a list of emotions as options.
+
 **Generate Button**: A button is created with st.button(). When clicked, it triggers the response generation.
 
 **4)Generate and Display Response:**
@@ -47,6 +49,19 @@ The selected response is then displayed in a text area using st.text_area().
 
 
 ## How to configure
-Instructions for setting up project
+1. Install Python.
+2. Clone this repository.
+3. Create the virtual environment.
+ '''
+    python -m venv env
+ '''
+5. Activate the virtual environment.
+   '''
+    env/Scripts/activate.bat
+   '''
+7. Install streamlit using pip.
+   '''
+    pip install streamlit
+   '''
 ## How to Run
-Instructions for running
+'''streamlit run ai.py'''
