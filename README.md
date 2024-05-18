@@ -42,6 +42,10 @@ When the button is clicked, the selected emotion is checked. If an emotion is se
 The selected response is then displayed in a text area using st.text_area().
 
 
+
+https://github.com/Meenakshimkumar/sat-hack/assets/118409571/a01c4c78-68fb-432b-9adf-47a109903e45
+
+
 ## Libraries used 
 
 1. Streamlit
