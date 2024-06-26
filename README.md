@@ -11,6 +11,9 @@ The chatbot's purpose is to demonstrate how different language models or respons
 
 The project showcases how Streamlit can be used to create interactive and engaging applications with minimal code. It also highlights the importance of considering user experience and emotional context when designing conversational interfaces.
 
+<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" height="30" alt="react logo"/><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+
 ## Team members
 1. [Aleena Bino](https://github.com/aleena24bino)
 2. [Meenakshi Pramod](https://github.com/MeenakshiPramod)
@@ -21,8 +24,7 @@ The project showcases how Streamlit can be used to create interactive and engagi
 ![Img2](https://github.com/Meenakshimkumar/sat-hack/assets/118379816/f3591841-5f68-4777-9f08-714dda5ed969)
 
 ## How it works?  
-<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" height="30" alt="react logo"/><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+
 
 **1)Setup and Import Libraries:**
 
