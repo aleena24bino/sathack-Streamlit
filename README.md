@@ -1,4 +1,6 @@
 ![sat_hack_img](https://github.com/Meenakshimkumar/sat-hack/assets/118379816/dc1a8917-609d-49ce-a430-50aeba656f28)
+
+
 # Chattie 
 ### Your Emotional Assistance
 This project is a simple emotion-based chatbot implemented using Streamlit, a popular framework for building web applications with Python. The chatbot allows users to select an emotion from a dropdown menu, and upon clicking a button, it generates a response corresponding to that emotion.
@@ -18,7 +20,9 @@ The project showcases how Streamlit can be used to create interactive and engagi
 ![Img1](https://github.com/Meenakshimkumar/sat-hack/assets/118379816/46b7b9d5-bc23-4661-818b-fe027dc1596b)
 ![Img2](https://github.com/Meenakshimkumar/sat-hack/assets/118379816/f3591841-5f68-4777-9f08-714dda5ed969)
 
-## How it works?
+## How it works?  
+<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" height="30" alt="react logo"/><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 
 **1)Setup and Import Libraries:**
 
